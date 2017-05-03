@@ -4,4 +4,5 @@ from the VeRi dataset released in [16]. VeRi has 776 different vehicles and 9000
 in training, we generate one groundtruth license plate image with strict rules for training. The dataset is released at https://github.com/dpgan/mlpsr as a benchmark for vehicle license plates SR in this community.
 
 [1] Paper ID: 824. 2017. Beyond Human-level License Plate Superresolution with Progressive Vehicle Search and Domain Priori GAN. In Proceedings of ACM Multimedia conference, Mountain View, CA USA, Oct. 2017 (ACM MM’17), 9 pages.
+
 [2] Xinchen Liu, Wu Liu, Tao Mei, and Huadong Ma. 2016. A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance. In ECCV. 869–884.
