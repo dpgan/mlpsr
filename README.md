@@ -1,5 +1,6 @@
 # Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN
-# We release the vehicle license plates in this paper as a benchmark for vehicle license plates super-resolution in this community.
+
+We release the vehicle license plates in this paper as a benchmark for vehicle license plates super-resolution in this community.
 
 Please download the dataset with the follow link:
 1. Baidu YunPan
