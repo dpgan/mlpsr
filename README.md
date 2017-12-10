@@ -5,7 +5,7 @@ We release the vehicle license plates in this paper as a benchmark for vehicle l
 Please download the dataset with the follow link:
 1. Baidu YunPan
 
-https://pan.baidu.com/s/1gfxIVaN Password: yqff
+If you need the dataset, please send the email to liuwu@live.cn.
 
 If you have any problem to download the dataset, please leave a message in the "Issues", we will reply ASAP.
 
