@@ -28,6 +28,6 @@ The test_Dataset folder contains testing dataset, including two subfolders:
 Note: All image size is 180*60. 
 
 
-[1] Wu Liu, Xinchen Liu, Huadong Ma, Peng Cheng,2017. Beyond Human-level License Plate Superresolution with Progressive Vehicle Search and Domain Priori GAN. In Proceedings of ACM Multimedia conference, Mountain View, CA USA, Oct. 2017 (ACM MM’17), 9 pages.
+[1] Wu Liu, Xinchen Liu, Huadong Ma, Peng Cheng: Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN. ACM Multimedia 2017: 1618-1626
 
-[2] Xinchen Liu, Wu Liu, Tao Mei, and Huadong Ma. 2016. A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance. In ECCV. 869–884.
+[2] Xinchen Liu, Wu Liu, Tao Mei, and Huadong Ma: A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance. In ECCV. 869–884.
